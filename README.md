@@ -1,14 +1,14 @@
 ### Hi there 👋
 I'm Rebecca, a data scientist with a background in myrmecology, the study of ants. I love to analyze data, build tools, illustrate, design, and visualize the things I learn from data.
 
-Current Projects:
-Find your favorite wildflowers!
+**Current Projects**
+[Find your favorite wildflowers!](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
 Scholarship Allocation Tool
 
-Current employment:
+**Current employment**
 I'm working with Brown Girl Surf as a data scientist. I have volunteered as a surf instructor and worked in several roles at BGS. 
 
-Publications
+**Publications**
 
 <!--
 **Floydworks/Floydworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
