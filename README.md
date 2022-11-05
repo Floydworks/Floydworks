@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Rebecca, a data scientist with a background in myrmecology, the study of ants. I love to analyze data, build tools, illustrate, design, and visualize the things I learn from data. 
 <!--
 **Floydworks/Floydworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
