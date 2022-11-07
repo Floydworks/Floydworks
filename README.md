@@ -7,12 +7,12 @@ I'm Rebecca, a data scientist with a background in myrmecology, the study of ant
 
 **Every Day Data Science**
 <br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 
-<br>I also brew all the beer for BGS events.
 <br>What I do:
 - Write algorithms for financial tools.
 - Design, improve, implement, and analyze surveys and survey results to improve our ability to meet community needs and to understand program impacts.
 - Create reports for grant applications, advisory meetings, and public forums using an events and sales database I assembled.
 - Illustrate, design, and produce visual aids that relate our organizations values.
+- Brew all the beer for BGS events, cheers!
 
 **Publications**
 <br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277) 
