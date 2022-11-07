@@ -5,9 +5,10 @@ I'm Rebecca, a data scientist with a background in myrmecology, the study of ant
 <br>[Find your favorite wildflowers!](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
 <br>Scholarship Allocation Tool
 
-**Data Science Every Day**
-<br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. I also <br>brew all the beer for BGS events.
-<br>At Brown Girl Surf I:
+**Every Day Data Science**
+<br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 
+<br>I also brew all the beer for BGS events.
+<br>What I do:
 - Write algorithms for financial tools.
 - Design, improve, implement, and analyze surveys and survey results to improve our ability to meet community needs and to understand program impacts.
 - Create reports for grant applications, advisory meetings, and public forums using an events and sales database I assembled.
