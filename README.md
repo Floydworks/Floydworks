@@ -5,7 +5,7 @@ I'm Rebecca, a data scientist with a background in myrmecology, the study of ant
 <br>[Find your favorite wildflowers!](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
 <br>Scholarship Allocation Tool
 
-**Current employment**
+**Data Science Every Day**
 <br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. I also <br>brew all the beer for BGS events.
 <br>At Brown Girl Surf I:
 - Write algorithms for financial tools.
@@ -14,6 +14,17 @@ I'm Rebecca, a data scientist with a background in myrmecology, the study of ant
 - Illustrate, design, and produce visual aids that relate our organizations values.
 
 **Publications**
+<br>OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure. 
+<br>2022. The Journal of Sex Research.
+<br>Devon J. Hensel, Christiana D. Von Hippel, Rebecca Sandidge, Charles C. Lapage, Nicole S. Zelin & Robert H. Perkins
+
+<br>Desiccation Resistance and Micro-Climate Adaptation: Cuticular Hydrocarbon Signatures of Different Argentine Ant Supercolonies Across California. 
+<br>2018. The Journal of Chemical Ecology.
+<br>Jan Buellesbach, Brian A Whyte, Elizabeth Cash, Joshua D Gibson, Kelsey J Scheckel, Rebecca Sandidge, Neil D Tsutsui
+
+<br>[The community ecology of ants (Formicidae) in Indonesian grasslands with special focus on the tropical fire ant, Solenopsis geminata.](https://escholarship.org/uc/item/802527f6)
+<br>2018. Dissertation.
+<br>Rebecca L. Sandidge
 
 **Other Projects**
 [@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
