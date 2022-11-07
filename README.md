@@ -17,9 +17,9 @@ Hi there 👋
 **Publications**
 <br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277)
 <br>2022. The Journal of Sex Research. D. J. Hensel, C. D. Von Hippel, R. Sandidge, C. C. Lapage, N. S. Zelin & R. H. Perkins
-<br>2. [Desiccation Resistance and Micro-Climate Adaptation: Cuticular Hydrocarbon Signatures of Different Argentine Ant Supercolonies.](https://pubmed.ncbi.nlm.nih.gov/30430363/) 
+<br>2. [Desiccation Resistance and Micro-Climate Adaptation: Cuticular Hydrocarbon Signatures of Argentine Ant Supercolonies.](https://pubmed.ncbi.nlm.nih.gov/30430363/) 
 <br>2018. The Journal of Chemical Ecology. J. Buellesbach, B. A. Whyte, E. Cash, J. D Gibson, K. J. Scheckel, R. Sandidge, N. D. Tsutsui
-<br>3. [The community ecology of ants (Formicidae) in Indonesian grasslands with special focus on the tropical fire ant, Solenopsis geminata.](https://escholarship.org/uc/item/802527f6)2018. Dissertation. Rebecca L. Sandidge
+<br>3. [The community ecology of ants (Formicidae) in Indonesian grasslands with special focus on the tropical fire ant, Solenopsis geminata.](https://escholarship.org/uc/item/802527f6) 2018. Dissertation. Rebecca L. Sandidge
 
 📫 **How to reach me**
 <br>rlsandidge@gmail.com
