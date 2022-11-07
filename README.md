@@ -12,7 +12,7 @@ Hi there 👋
 - Survey design, implementation, and analysis. 
 - Data-driven reports.
 - Illustration, design, and visualization.
-- Brewing all the beer for BGS events, cheers! 🍻
+- Brewing all the beer for BGS events, cheers! 🍻[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
 
 **Publications**
 <br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277)
@@ -21,9 +21,6 @@ Hi there 👋
 <br>2018. The Journal of Chemical Ecology. J. Buellesbach, B. A. Whyte, E. Cash, J. D Gibson, K. J. Scheckel, R. Sandidge, N. D. Tsutsui
 <br>3. [The community ecology of ants (Formicidae) in Indonesian grasslands with special focus on the tropical fire ant, Solenopsis geminata.](https://escholarship.org/uc/item/802527f6)
 <br>2018. Dissertation. Rebecca L. Sandidge
-
-**Other Projects**
-<br>[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
 
 📫 **How to reach me**
 <br>rlsandidge@gmail.com
