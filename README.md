@@ -7,7 +7,7 @@ Hi there 👋
 <br>Scholarship Allocation Tool
 
 **Every Day Data Science**
-<br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 🏄🏄🏼🏄🏼🏄🏼
+<br>Data scientist at Brown Girl Surf! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 🏄
 - Write algorithms for financial tools.
 - Survey design, implementation, and analysis. 
 - Data-driven reports.
@@ -25,7 +25,7 @@ Hi there 👋
 **Other Projects**
 <br>[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
 
-<br>📫 **How to reach me**
+📫 **How to reach me**
 <br>rlsandidge@gmail.com
 <br>[LinkedIn](https://www.linkedin.com/in/rebecca-sandidge-scientist/)
 
