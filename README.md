@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 <br>I'm Rebecca, a data scientist with a background in myrmecology, the study of ants. 🐜🐜🐜🐜
 <br>I love to analyze data, build tools, illustrate, design, and visualize the things I learn from data.
 
@@ -8,7 +8,6 @@
 
 **Every Day Data Science**
 <br>I'm working with Brown Girl Surf as a data scientist! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 🏄🏄🏼🏄🏼🏄🏼
-<br>What I do:
 - Write algorithms for financial tools.
 - Survey design, implementation, and analysis. 
 - Data-driven reports.
