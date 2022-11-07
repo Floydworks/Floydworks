@@ -16,7 +16,7 @@
 - Brewing all the beer for BGS events, cheers! 🍻
 
 **Publications**
-<br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277)  
+<br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure. (https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277)
 <br>2022. The Journal of Sex Research. D. J. Hensel, C. D. Von Hippel, R. Sandidge, C. C. Lapage, N. S. Zelin & R. H. Perkins
 <br>2. [Desiccation Resistance and Micro-Climate Adaptation: Cuticular Hydrocarbon Signatures of Different Argentine Ant Supercolonies Across California.](https://pubmed.ncbi.nlm.nih.gov/30430363/) 
 <br>2018. The Journal of Chemical Ecology. J. Buellesbach, B. A. Whyte, E. Cash, J. D Gibson, K. J. Scheckel, R. Sandidge, N. D. Tsutsui
