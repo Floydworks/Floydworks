@@ -7,8 +7,7 @@ Hi there 👋
 <br>Scholarship Allocation Tool
 <br>
 <br>Data scientist at Brown Girl Surf! 🏄
-- Write algorithms for financial tools.
-- Data-driven reports, survey design, implementation, and analysis. 
+- Financial algorithms, data-driven reports, survey design, implementation, and analysis. 
 - Illustration, design, and visualization.
 - Brewing all the beer for BGS events, cheers! 🍻[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
 
