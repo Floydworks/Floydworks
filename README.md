@@ -16,8 +16,8 @@
 - Brewing all the beer for BGS events, cheers! 🍻
 
 **Publications**
-<br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277) 
-<br>2022. The Journal of Sex Research. Devon J. Hensel, Christiana D. Von Hippel, Rebecca Sandidge, Charles C. Lapage, Nicole S. Zelin & Robert H. Perkins
+<br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277) 2022. The Journal of Sex Research. 
+<br>Devon J. Hensel, Christiana D. Von Hippel, Rebecca Sandidge, Charles C. Lapage, Nicole S. Zelin & Robert H. Perkins
 <br>2. [Desiccation Resistance and Micro-Climate Adaptation: Cuticular Hydrocarbon Signatures of Different Argentine Ant Supercolonies Across California.](https://pubmed.ncbi.nlm.nih.gov/30430363/) 
 <br>2018. The Journal of Chemical Ecology.
 <br>Jan Buellesbach, Brian A Whyte, Elizabeth Cash, Joshua D Gibson, Kelsey J Scheckel, Rebecca Sandidge, Neil D Tsutsui
