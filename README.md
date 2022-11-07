@@ -31,6 +31,10 @@
 **Other Projects**
 <br>[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
 
+<br>📫 How to reach me:
+rlsandidge@gmail.com
+<br>[LinkedIn](https://www.linkedin.com/in/rebecca-sandidge-scientist/)
+
 <!--
 **Floydworks/Floydworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
