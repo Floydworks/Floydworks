@@ -6,7 +6,7 @@ Hi there 👋
 <br>[Find your favorite wildflowers!](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
 <br>Scholarship Allocation Tool
 <br>
-<br>Data scientist at Brown Girl Surf! I have volunteered as a surf instructor and worked in several roles at BGS since 2016. 🏄
+<br>Data scientist at Brown Girl Surf! 🏄
 - Write algorithms for financial tools.
 - Survey design, implementation, and analysis. 
 - Data-driven reports.
