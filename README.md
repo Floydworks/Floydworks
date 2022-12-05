@@ -1,6 +1,6 @@
 Hi there 👋
 <br>I'm Rebecca, a Bay Area data scientist with a background in myrmecology (ants). 🐜🐜🐜🐜
-<br>I love to analyze data, build tools, surf, illustrate, design, and visualize the things I learn from data. 📈
+<br>I love to analyze data 💻, build tools 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and visualize the things I learn from data. 📈
 
 **Current Projects**
 <br>[Find your favorite wildflowers!](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
