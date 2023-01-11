@@ -1,5 +1,5 @@
 Hi there 👋
-<br>I'm Rebecca, a Bay Area data scientist with a background in myrmecology (ants). 🐜🐜🐜🐜
+<br>I'm Rebecca, a Bay Area data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
 <br>I love to analyze data 💯, build tools 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and visualize my findings 📊.
 
 **Current Projects**
