@@ -4,7 +4,6 @@ Hi there 👋
 
 **Current Projects**
 <br>[Tarantulas of California](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
-<br>Scholarship Allocation Tool
 <br>
 <br>Data scientist at Brown Girl Surf! 🏄
 - Financial algorithms, data-driven reports, illustration, design, and visualization.
