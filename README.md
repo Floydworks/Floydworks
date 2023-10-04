@@ -3,7 +3,7 @@ Hi there 👋
 <br>I love to build tools 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
 
 **Current Projects**
-<br>[Tarantulas of California](https://github.com/Floydworks/WildflowerFinder_Phenology_Tool)
+<br>[Tarantulas of California](https://github.com/Floydworks/Tarantulas_Map_iNat)
 <br>
 <br>Data scientist at Brown Girl Surf! 🏄
 - Financial algorithms, data-driven reports, illustration, design, and visualization.
