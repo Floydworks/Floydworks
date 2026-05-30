@@ -21,7 +21,7 @@ Hi there 👋
 <br>3. [The community ecology of ants (Formicidae) in Indonesian grasslands with special focus on the tropical fire ant, Solenopsis geminata.](https://escholarship.org/uc/item/802527f6) 2018. Dissertation. Rebecca L. Sandidge
 
 📫 **How to reach me**
-<br>Email: rlsandidge@gmail.com ----- [LinkedIn](https://www.linkedin.com/in/rsandidge/) ----- Insta: @queers_makin_beers
+<br>Email: rlsandidge@gmail.com ----- [LinkedIn](https://www.linkedin.com/in/rsandidge/) ----- Insta: @rebecca.the.scientist
 
 <!--
 **Floydworks/Floydworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
