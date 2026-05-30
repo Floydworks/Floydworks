@@ -1,14 +1,17 @@
 Hi there 👋
-<br>I'm Rebecca, a Bay Area data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
-<br>I love to build tools 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
+TLDR : rn, Turtle Math
+
+<br>I'm Rebecca, a data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
+<br>I love to build things 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
 
 **Current Projects**
-<br>[Tarantulas of California](https://github.com/Floydworks/Tarantulas_Map_iNat)
+<br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
+<br> 
 <br>
-<br>Data scientist at Brown Girl Surf! 🏄
+- Statistical modeling for peer-reviewed research publication.
 - Financial algorithms, data-driven reports, illustration, design, and visualization.
 - Survey design, implementation, and analysis.
-- Brewing all the beer for BGS events, cheers! 🍻[@queers_makin_beers](https://www.instagram.com/queers_makin_beers/)
+
 
 **Publications**
 <br>1. [OMG, Yes!: Feasibility, Acceptability, and Preliminary Efficacy of an Online Intervention for Female Sexual Pleasure.](https://www.tandfonline.com/doi/full/10.1080/00224499.2021.1912277)
