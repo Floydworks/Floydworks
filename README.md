@@ -8,7 +8,7 @@ Hi there 👋
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
 <br>**Data Skills**
-- Statistical modeling for peer-reviewed research publication.
+- Statistical modeling for peer-reviewed research publications.
 - Financial algorithms, data-driven reports, illustration, design, and visualization.
 - Survey design, implementation, and analysis.
 
