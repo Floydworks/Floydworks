@@ -1,5 +1,5 @@
 Hi there 👋
-TLDR : rn, Turtle Math
+<br> TLDR : rn, Turtle Math
 
 <br>I'm Rebecca, a data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
 <br>I love to build things 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
