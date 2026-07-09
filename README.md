@@ -1,5 +1,4 @@
 Hi there 👋
-<br> TLDR : rn, Turtle Math
 
 <br>I'm Rebecca, a data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
 <br>I love to build things 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
@@ -8,6 +7,7 @@ Hi there 👋
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
 <br>**Data Skills**
+- Data management and infrastructure
 - Statistical modeling for peer-reviewed research publications.
 - Financial algorithms, data-driven reports, illustration, design, and visualization.
 - Survey design, implementation, and analysis.
