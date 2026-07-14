@@ -1,9 +1,10 @@
 Hi there 👋
 
 <br>I'm Rebecca, a data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
-<br>I love to build things 🛠, surf 🏄🏼, garden 🌱 , illustrate ✏️, design 🎨, and use statistics 📊.
+<br>I design 🎨 and build 🛠 data management tools 📊, surf 🏄🏼, and illustrate ✏️.
 
 **Current Projects**
+<br> Tracking Russel-1000 holdings.
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
 <br>**Data Skills**
