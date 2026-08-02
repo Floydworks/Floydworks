@@ -9,9 +9,9 @@ Hi there 👋
 <br> 
 <br>**Data Skills**
 - Data management and infrastructure
-- Statistical modeling for peer-reviewed research publications.
-- Financial algorithms, data-driven reports, illustration, design, and visualization.
-- Survey design, implementation, and analysis.
+- Statistical modeling for peer-reviewed research publications
+- Financial algorithms, data-driven reports, illustration, design, and visualization
+- Survey design, implementation, and analysis
 
 
 **Publications**
