@@ -1,5 +1,4 @@
 Hi there 👋
-
 <br>I'm Rebecca, a data scientist with a background in myrmecology (ant biology). 🐜🐜🐜🐜
 <br>I design 🎨 and build 🛠 data management tools 📊, surf 🏄🏼, and illustrate ✏️.
 
