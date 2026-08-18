@@ -4,6 +4,7 @@ Hi there 👋
 <br>I design 🎨 and build 🛠 data management tools 📊, surf 🏄🏼, and illustrate ✏️.
 
 **Current Projects**
+<br> Workflows for clinical trial data.
 <br> Tracking Russel-1000 holdings.
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
