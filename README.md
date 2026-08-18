@@ -8,7 +8,7 @@ Hi there 👋
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
 <br>**Data Skills**
-- Data management and infrastructure
+- Data management : APIs, automated workflows, and infrastructure
 - Statistical modeling for peer-reviewed research publications
 - Financial algorithms, data-driven reports, illustration, design, and visualization
 - Survey design, implementation, and analysis
