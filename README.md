@@ -4,7 +4,7 @@ Hi there 👋
 
 **Current Projects**
 <br> Workflows for managing clinical trial data.
-<br> GitHub administration and project management
+<br> GitHub administration and repository management.
 <br> Tracking Russel-1000 holdings.
 <br> Generalized Additive Models of Sea Turtle nesting intensity in Rio Oro, Costa Rica.
 <br> 
